@@ -1,3 +1,5 @@
 env/
 Videos/
 *.mp4
+data/dataset/
+data/old_ds/
