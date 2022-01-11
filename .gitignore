@@ -1,6 +1,6 @@
-env/
-Videos/
-*.mp4
-data/dataset/
-data/old_ds/
-data/captures/
+env
+data/demo
+data/out
+data/raw
+data/visualizations
+models/*
