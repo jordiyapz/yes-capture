@@ -4,7 +4,21 @@ from contextlib import contextmanager
 
 @contextmanager
 def open_video(*args):
-    # Code to acquire resource, e.g.:
+    '''
+    OpenCV2 video capture wrapper. 
+    @author Jordi Yaputra.
+    
+    This returns a frame generator that can be iterated to produce
+    video frames
+
+    Usage example:
+    ```
+        with open_video(0) as video:
+            for frame in video:
+                # Do something with the video frame
+                # Press `q` to stop the video.
+    ```
+    '''
     video_capture = cv2.VideoCapture(*args)
 
     def frame_generator():
