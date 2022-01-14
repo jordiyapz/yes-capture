@@ -6,7 +6,7 @@ An application to demonstrate functionality of capturing image using "Y" hand po
 
 1. Clone this repository to your local: `git clone https://github.com/jordiyapz/yes-capture.git`
 2. Change your working directory to the installed folder: `cd yes-capture`
-3. Install this repository by running `pip install .` (The dot `.` means current directory).
+3. Install this repository by running `pip install -e .` (The dot `.` means current directory).
 4. Install the modules by running `py yesc/data/cli.py install`
 5. Choose either `Minimal` for quick and easy usage or `Essentials` for additional dataset (optional).
 

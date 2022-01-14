@@ -2,6 +2,7 @@
 data/demo
 data/out
 data/raw
+data/processed
 data/visualizations
 models
 
