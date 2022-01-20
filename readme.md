@@ -83,3 +83,4 @@ Additional modules, i.e. demo and raw data contains creator's personal identity.
 
 1. Big thanks to Mediapipe for the Hands library.
 2. This project is using structure that was highly inspired from [this article](https://towardsdatascience.com/structuring-machine-learning-projects-be473775a1b6).
+3. Video embedding created with https://video-to-markdown.netlify.com. Thanks to https://github.com/marcomontalbano/video-to-markdown
