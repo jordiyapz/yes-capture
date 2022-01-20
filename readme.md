@@ -5,6 +5,7 @@ An application to demonstrate functionality of capturing image using "Y" hand po
 ## Presentation
 
 Here is the link to our presentation about this project: https://youtu.be/RfqfMxAONUQ
+[![Yes, Capture!](https://res.cloudinary.com/marcomontalbano/image/upload/v1642650366/video_to_markdown/images/youtube--RfqfMxAONUQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=RfqfMxAONUQ "Yes, Capture!")
 
 ## Installation
 
