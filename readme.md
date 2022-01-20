@@ -2,6 +2,10 @@
 
 An application to demonstrate functionality of capturing image using "Y" hand pose according to American Sign Language (ASL) hand sign.
 
+## Presentation
+
+Here is the link to our presentation about this project: https://youtu.be/RfqfMxAONUQ
+
 ## Installation
 
 1. Clone this repository to your local: `git clone https://github.com/jordiyapz/yes-capture.git`
